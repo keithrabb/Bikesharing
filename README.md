@@ -16,7 +16,8 @@ Link to Tableau Story [NYC Citibike](https://public.tableau.com/views/NYCCitibik
 
 ### Suggested Future Analysis
 * As llsted above. age is an important demographic.  More analysis was created and showed that in NYC, users are fairly young.  If Des Moines has an older age demographic, this could problematic for higher usage and subscribers.
-* NYC is densely populated, much more than Des Moines and has more people per square mile.  This would need to be evaluated.
+* NYC is densely populated, much more than Des Moines and has more people per square mile.  It is glaring when the Top Start / End locations show that most of the usage is on the island of Manhattan.
+* Comparing populations - NYC has more "unknown" gender users than the population of Des Moines.
 
 ### Side Note
 * I am of the opinion that what is on a "slide"(story) should only remind the presenter of what he/she should be talking about.  This visualization tool is perfect for me.
