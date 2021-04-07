@@ -6,6 +6,9 @@ Link to Tableau Story [NYC Citibike](https://public.tableau.com/views/NYCCitibik
 
 ## Results - Analysis
 *  Gender - Who uses the bike service?
+
+<img src="Images/Gender.PNG">
+
 *  Time of day - When are the peak hours of usage?  When are the off peak hours so that maintainence can be performed.
 *  Where are the bikes picked up and returned.  This will matter during the maintainence hours to redistribute the bikes to make sure the potential users have one available at the beginning of a new day.
 *  Age - Recalculation of Birthdate to Age and sorted into bins to show how old the user is.  This is important if Des Moines has an older age demographic combined with a lower population it could be detrimental to business.
