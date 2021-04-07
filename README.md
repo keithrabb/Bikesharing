@@ -17,6 +17,8 @@ Link to Tableau Story [NYC Citibike](https://public.tableau.com/views/NYCCitibik
 
 *  When to maintain the fleet is very important to keeping customers.  People do not like to ride around on junk, nor do they want to search for a bike when trying to get around, so making sure the bikes are available in key areas will take daily redistributions causing higherly labor costs in more rural areas.
 
+<img src="Images/Maintain.PNG">
+
 ## Summary
 ### High Level Summary
 *  This was a fun project that turned boring numbers into colorful visualizations.  The who, when, where, how old and how to maintain the fleet are listed in captions to give quick talking points to a the presentation.
