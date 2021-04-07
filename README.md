@@ -1,4 +1,4 @@
-### Bikesharing
+# Bikesharing
 Link to Tableau Story [NYC Citibike](https://public.tableau.com/views/NYCCitibikeChallenge_16176058216610/NYCCitiBike?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) for Module 14
 
 ## Purpose of Project
@@ -6,8 +6,17 @@ Link to Tableau Story [NYC Citibike](https://public.tableau.com/views/NYCCitibik
 
 ## Results - Analysis
 *  Gender - Who uses the bike service?
-*  Time of day - When are the peak hours of usage?  When are the off peak hours so that maintainence can be performed
+*  Time of day - When are the peak hours of usage?  When are the off peak hours so that maintainence can be performed.
+*  Where are the bikes picked up and returned.  This will matter during the maintainence hours to redistribute the bikes to make sure the potential users have one available at the beginning of a new day.
 *  Age - Recalculation of Birthdate to Age and sorted into bins to show how old the user is.  This is important if Des Moines has an older age demographic combined with a lower population it could be detrimental to business.
 *  
 ## Summary
-As llsted above. age is important
+### High Level Summary
+*  This was a fun project that turned boring numbers into colorful visualizations.  The who, when, where, how old and how to maintain the fleet are listed in captions to give quick talking points to a the presentation.
+
+### Suggested Future Analysis
+* As llsted above. age is an important demographic.  More analysis was created and showed that in NYC, users are fairly young.  If Des Moines has an older age demographic, this could problematic for higher usage and subscribers.
+* NYC is densely populated, much more than Des Moines and has more people per square mile.  This would need to be evaluated.
+
+### Side Note
+* I am of the opinion that what is on a "slide"(story) should only remind the presenter of what he/she should be talking about.  This visualization tool is perfect for me.
